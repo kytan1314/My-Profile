@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.rounded-circle {
+width: 150px;
+height: 175px;
+}
+
+#about,#skills,#education,#footer{
+  background-color: aqua;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
